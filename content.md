@@ -1,5 +1,7 @@
 # Replace with lesson title
 
+Get these changes
+
 Add your content here!
 
 [Read up here for full instructions with examples for lesson writing.](https://learn.firstdraft.com/lessons/3-how-to-write-a-lesson)
