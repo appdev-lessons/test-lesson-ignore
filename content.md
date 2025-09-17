@@ -1,6 +1,7 @@
 # Replace with lesson title
 
 Get these changes
+Push these changes
 
 Add your content here!
 
