@@ -4,6 +4,21 @@ Pull these changes
 
 Push these changes
 
+```hurl
+POST https://api.artic.edu/api/v1/artworks/search
+Content-Type: application/json
+
+{
+    "q": "cats",
+    "query": {
+        "term": {
+            "is_public_domain": true
+        }
+    }
+}
+```
+{: .codeblock #jw_runnable_hurl title="Runnable Hurl Test" points="1"}
+
 Add your content here!
 
 [Read up here for full instructions with examples for lesson writing.](https://learn.firstdraft.com/lessons/3-how-to-write-a-lesson)
